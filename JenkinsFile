@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello World'
+                echo 'Hello World vijaycdivvcwcvqw'
                 git branch: 'main', url: 'https://github.com/pranchetan/tweet-trend-new.git'
             }
         }
