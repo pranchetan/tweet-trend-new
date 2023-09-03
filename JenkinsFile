@@ -1,5 +1,5 @@
 def registry = 'https://chetannikam.jfrog.io/'
-def imageName = 'chetannikam.jfrog.io/chetan/ttrend'
+def imageName = "chetannikam.jfrog.io/chetan/ttrend"
 def version = '2.0.2'
 
 pipeline {
